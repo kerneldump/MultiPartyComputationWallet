@@ -1,0 +1,10 @@
+# configs/common.yaml  (used by every node)
+node_id: 1          # just change this per process
+port:    8001
+data_dir: ./data/node1
+
+peers:
+  1: localhost:8001
+  2: localhost:8002
+  3: localhost:8003
+
