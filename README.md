@@ -1,6 +1,8 @@
-# Multi-Party Computation (MPC) Wallet
+# Multi-Party Computation (MPC) Wallet (Proof of Concept)
 
 This project implements a distributed multi-party computation (MPC) wallet in Go. It allows for distributed key generation and signing of messages using threshold ECDSA, where a minimum number of parties must cooperate to perform cryptographic operations.
+
+**Please note:** This project is a **Proof of Concept (PoC)** and is provided for experimental purposes only.
 
 ## Project Structure
 
